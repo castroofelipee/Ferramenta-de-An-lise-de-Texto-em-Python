@@ -1,0 +1,1 @@
+# Ferramenta-de-An-lise-de-Texto-em-Python
